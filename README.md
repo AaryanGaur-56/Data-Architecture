@@ -71,8 +71,6 @@ The primary objective is to:
 
 Using MySQL Workbench, I solved business-oriented SQL problems to extract actionable insights from customer transaction data.
 
-## 🗄️ SQL Business Analysis
-
 SQL queries are documented in `Business SQL_Queries.md` along with brief business objectives, SQL concepts, and key insights for selected analytical problems.
 
 The Markdown format was used to improve readability and provide business context alongside the SQL solutions.
